@@ -2,8 +2,8 @@
 
 **Company Name:** SecureGuard Solutions  
 **Client:** XYZ Corporation  
-**Date:** [Date of Report]  
-**Prepared by:** John Smith and Emily Johnson  
+**Date:** [May 11, 2024]  
+**Prepared by:** Fharson B. Bano 
 
 ## Executive Summary:
 
