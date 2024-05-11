@@ -3,7 +3,7 @@
 **Company Name:** SecureGuard Solutions  
 **Client:** XYZ Corporation  
 **Date:** [May 11, 2024]  
-**Prepared by:** Fharson B. Bano 
+**Prepared by:** FHARSON B. BANO
 
 ## Executive Summary:
 
